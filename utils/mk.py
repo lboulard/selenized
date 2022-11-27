@@ -20,6 +20,7 @@ palettes = [
         Path("palettes/personalized/michal_sochon.py"),
         Path("palettes/personalized/piotr_kowalczyk.py"),
         Path("palettes/personalized/tomek_madycki.py"),
+        Path("palettes/other/very_high_contrast.py"),
     ]
 ]
 
