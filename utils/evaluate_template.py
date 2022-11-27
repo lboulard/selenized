@@ -15,7 +15,7 @@ recursively searched for templates."""
 
 TMPL_EXT = '.template'
 
-DEFAULT_OUTPUT_DIR = ''
+DEFAULT_OUTPUT_DIR = 'output'
 
 MARKER_RE = re.compile(r'!!COL(?P<delim>.)(?P<format>.*?)(?P=delim)')
 
